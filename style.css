@@ -1,0 +1,102 @@
+.contener{
+    width: 80%; /*120px*/
+    height: auto;
+}
+.menu{
+    width: 80%;
+    height: 80px;
+    background-color: #008000;
+    margin-left: 10%;
+   
+ 
+}
+.line{
+    width: 100%;
+    height: 4px;
+    background-color:yellowgreen;
+    border-radius: 3px;
+    }
+.up{
+    height:  50px;
+    width: 80%;
+  
+  
+}
+.up ul{
+    list-style: none;
+  
+}
+.up ul li{
+    margin-right:20px;
+    margin-top: 30px;
+    margin-bottom: 100%;
+    display: inline-block;
+  
+
+}
+.up ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 40px; 
+    color: black;  
+}
+.down  {
+    height: 50px;
+    width:80%;
+   
+  
+}
+.search{
+width: 290px;
+height: 25px;
+background-color: white;
+margin-left: 80%;
+
+}
+.search input{
+    height: 20px;
+    width: 250px;
+    
+    
+}
+.search button img {
+    height: 13px;
+    width: 10px ;
+    border-radius: 9px;
+}
+.content{
+    width: 80%;
+    height: auto;
+    
+}
+.top{
+    width: 80%;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 13%;
+    display: flex;
+    
+
+}
+.left{
+    width: 50%;
+    height: 100%;
+    
+}
+.right{
+    width: 50%;
+    height: 100%;
+}
+.tooter1{
+    font-size: 5px;
+}
+/*.photo{
+    margin-top: 60px;
+    margin-left: 12%;
+
+}
+.text{
+    margin-left: 40%;
+    margin-bottom: 80px;
+}*/
